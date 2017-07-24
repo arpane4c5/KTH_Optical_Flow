@@ -1,0 +1,18 @@
+*.pyc
+*.avi
+*.png
+*.jpg
+OpticalFlowCNNTest.ipynb
+OpticalFlowCNNTrain.ipynb
+Optical Flow with CNN.ipynb
+adam/
+dataset/
+DeepFlow/
+DeepFlow*
+random_vis/
+detailed_vis/
+walk_frames/
+walk_frames_all/
+test_results/
+snapshots/
+.ipynb_checkpoints/
