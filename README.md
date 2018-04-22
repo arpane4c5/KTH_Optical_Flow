@@ -1,6 +1,8 @@
 # KTH_OpticalFlow
 This repository contains the code supporting the paper "Action Recognition using Optical Flow Visualizations" by Arpan Gupta and M. Sakthi Balan.
 
+Link to the paper : https://link.springer.com/chapter/10.1007/978-981-10-7895-8_31
+
 ## Description of files
 
 * optical_flow.py : Used for creation of training LMDB (and validation LMDB for checking accuracy of model trained but that is not actual accuracy on validation set). Only the frames where actions occur is considered. Thereofore, it uses kth_read_sequences.py, where kth_sequences annotations are used. 
